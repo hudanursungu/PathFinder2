@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFindGui", "PathFindGui.csproj", "{31F9925B-4D30-4F22-BD50-C805EB85CB79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F9925B-4D30-4F22-BD50-C805EB85CB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F9925B-4D30-4F22-BD50-C805EB85CB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F9925B-4D30-4F22-BD50-C805EB85CB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F9925B-4D30-4F22-BD50-C805EB85CB79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56699C7-F73E-42DE-B352-FE7FB46A1525}
+	EndGlobalSection
+EndGlobal
